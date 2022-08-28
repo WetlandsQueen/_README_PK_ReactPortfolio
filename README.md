@@ -20,7 +20,7 @@
 
 ## Description
 
-React Portfolio is portfolio to showcase developer work created using React.
+React Portfolio is a portfolio to showcase developer work created using React, MongoDB, and Email js.
 
 ## Purpose
 
